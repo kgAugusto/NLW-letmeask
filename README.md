@@ -1,5 +1,10 @@
 # NLW-letmeask
 
+
+![Screenshot_2](https://user-images.githubusercontent.com/44383217/182258661-bba71199-c69e-4bda-b1c1-400252fc3133.png)
+
+
+
 <h1>Projeto desenvolvido junto ao curso da rocketseat.</h1>
 
 <h2>A ideia foi desenvolver um SAP onde:</h2>
